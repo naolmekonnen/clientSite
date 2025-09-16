@@ -1,0 +1,98 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  /* Effects */
+}
+/* Figma Color Variables of your File */
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #ffffff;
+  padding: 10px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.naol-mekonnen {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 57px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1080px;
+  top: 45px;
+  width: 46px;
+  height: 26px;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1165px;
+  top: 40px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-naol-mekonnen-2408838099-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 217px;
+  top: 182px;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-naol-mekonnen-2408838099-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-naol-mekonnen-2408838099-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.contact2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1259px;
+  top: 50px;
+}
+.naol-mekonnen-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 888px;
+  width: 1344px;
+  height: 73px;
+}

@@ -1,0 +1,103 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  /* Effects */
+}
+/* Figma Color Variables of your File */
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ffffff;
+  padding: 10px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.naol-mekonnen {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 49px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1080px;
+  top: 45px;
+  width: 46px;
+  height: 26px;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1165px;
+  top: 40px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.budt-748-industry-practicum-budt-748-is-the-capstone-course-for-information-systems-is-majors-semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 99px;
+  top: 318px;
+}
+.budt-748-industry-practicum-budt-748-is-the-capstone-course-for-information-systems-is-majors-semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
+.budt-748-industry-practicum-budt-748-is-the-capstone-course-for-information-systems-is-majors-semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.budt-748-industry-practicum-budt-748-is-the-capstone-course-for-information-systems-is-majors-semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1259px;
+  top: 50px;
+}
+.naol-mekonnen-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 888px;
+  width: 1344px;
+  height: 73px;
+}

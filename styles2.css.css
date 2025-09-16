@@ -1,0 +1,116 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  /* Effects */
+}
+/* Figma Color Variables of your File */
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  padding: 10px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.naol-mekonnen {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 57px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1080px;
+  top: 45px;
+  width: 46px;
+  height: 26px;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1165px;
+  top: 40px;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+}
+.let-s-create-a-website-design-i-have-4-5-years-of-pm-experience-and-i-am-earning-my-msis {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 166px;
+  top: 314px;
+}
+.let-s-create-a-website-design-i-have-4-5-years-of-pm-experience-and-i-am-earning-my-msis-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
+.let-s-create-a-website-design-i-have-4-5-years-of-pm-experience-and-i-am-earning-my-msis-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1259px;
+  top: 50px;
+}
+.rectangle {
+  background: #a8ff35;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 610px;
+  top: 512px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 613px;
+  top: 522px;
+}
+.naol-mekonnen-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 888px;
+  width: 1344px;
+  height: 73px;
+}
